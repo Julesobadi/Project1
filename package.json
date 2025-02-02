@@ -1,0 +1,24 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Julesobadi/Project1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Julesobadi/Project1/issues"
+  },
+  "homepage": "https://github.com/Julesobadi/Project1#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
